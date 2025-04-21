@@ -1,2 +1,2 @@
 # Library-based-custom-SVM
-binary &amp; multiclass classification of cifar-10 dataset using SVMs: custom &amp; library-based for hyperparameter tuning
+This project was developed as part of the Neural Networks course at the Computer Science Department of Aristotle University of Thessaloniki. It evolves a custom Support Vector Machine implementation using cvxopt libray for binary classification, a library-based SVM for hyperparameter tuning and multiclass classification of cifar-10 dataset. It concludes with a comparison between the implemented SVM and an MLP. For more information, please refer to the report (in Greek).
